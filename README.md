@@ -1,0 +1,2 @@
+# WAC
+A Discord bot.
